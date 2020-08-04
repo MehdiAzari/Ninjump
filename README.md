@@ -8,5 +8,5 @@ How to Run the Projet :
   2. Compile the Project using G++ : g++ main.cpp -o Ninjump -std=c++11 -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf
   3. Run the Game : ./Ninjump
   
-  Thanks to https://github.com/erfanghobadian
+  Thanks to [Erfan Ghobadian](https://github.com/erfanghobadian)
   
