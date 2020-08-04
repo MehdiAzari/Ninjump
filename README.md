@@ -1,7 +1,9 @@
 # Ninjump
 Ninjump game implemented C++
 Final Project for Shahid Beheshti University Using SDL2 & SBDL
-
+ 
+#Game trailer:
+  [Click to play video](https://www.aparat.com/v/tsFkW)
 
 How to Run the Projet : 
   1. Install SDL2 on Your Linux Machine : sudo apt install libsdl2-2.0
